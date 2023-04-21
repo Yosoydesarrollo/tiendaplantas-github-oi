@@ -237,7 +237,7 @@ p {
     margin-left: 33%;
     margin-right: 33%;
     background-color: rgb(234, 214, 241);
-    padding-left: 33px;
+    padding-left: 23px;
     padding-top: 3px;
     padding-bottom: 3px;
 }
@@ -250,5 +250,6 @@ h2 {
     padding-left: 97px;
     padding-top: 3px;
     padding-bottom: 3px;
+	
 }
 }
